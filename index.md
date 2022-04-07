@@ -51,8 +51,37 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 1. Created a web app hangman game that includes authentication, a database, and asynchronous programming with websockets.
 2. Authors: Tage Higley, Dennis Chase, Hunter Olson, Cecilia Harvey.
 3. Tools Used: ASP.NET Core 6.0, Web Sockets with SignalR, Access Database, Visual Studio.
-4. Hunter Olson's Contribution: Designed the Login and Hangman pages, Helped with SignalR, Added functionality to Hangman page, Added top ten functionality.
+4. Hunter Olson's Contribution: 
+- Designed the Login and Hangman pages.
+- Helped with SignalR.
+- Added functionality to Hangman page.
+- Added top ten functionality.
 5. Screenshots:
 ![Image](images/hangmanone.png)
 ![Image](images/hangmantwo.png)
 ![Image](images/hangmanthree.png)
+
+## Scholarship Project
+1. This program was a legacy application that required upgrading to a more recent version of ASP.NET Core. The application was upgraded from ASP.NET Core 2.0 to 6.0. There was a bug that prevented the Entity Framework databases from auto generating that we fixed. We also added a new question to the student profile.
+2. Authors: Tage Higley, Dennis Chase, Hunter Olson, Cecilia Harvey
+3. Tools Used: ASP.NET Core 6.0, SQL, Entity Framework, Visual Studio
+4. Hunter Olson's Contribution: 
+- Helped to migrate to dotnet 2.1. 
+- Fixed bug that wouldn't allow you to see applications if a judge hasen't rated it.
+5. Screenshots:
+![Image](images/scholarshipone.png)
+![Image](images/scholarshiptwo.png)
+![Image](images/scholarshipthree.png)
+
+## Speed Game
+1. Created a web app that allows two players to compete in a game of Speed.
+2. Authors: Tage Higley, Dennis Chase, Hunter Olson, Cecilia Harvey
+3. Tools Used: ASP.NET Core 6.0, Web Sockets with SignalR, Visual Studio
+4. Hunter Olson's Contribution: 
+- I designed the layout of the cards on the front end.
+- I implemented the draw card, play card, and flip new card functions.
+- I applied our understanding of SignalR to our project.
+5. Screenshots:
+![Image](images/speedone.png)
+![Image](images/speedtwo.png)
+![Image](images/speedthree.png)
