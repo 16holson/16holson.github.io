@@ -35,9 +35,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
-### Markdown
-#Hunter Olson
-#Github Portfolio
+### Hunter Olson
+# Github Portfolio
 
 -Guessing Game
 1. Website that has a login that hashes/salts the password. It is also a hot/cold number guessing game that displays the top ten users. Stores users data to local raspberry pi MySql database.
